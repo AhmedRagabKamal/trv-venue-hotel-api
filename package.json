@@ -1,0 +1,30 @@
+{
+  "name": "trv-venue-hotel-api",
+  "version": "1.0.0",
+  "description": "Fake api provider for client app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedRagabKamal/trv-venue-hotel-api.git"
+  },
+  "keywords": [
+    "fake",
+    "api",
+    "json-server",
+    "faker"
+  ],
+  "author": "Ahmed Ragab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedRagabKamal/trv-venue-hotel-api/issues"
+  },
+  "homepage": "https://github.com/AhmedRagabKamal/trv-venue-hotel-api#readme",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "json-server": "^0.15.1",
+    "lodash": "^4.17.15"
+  }
+}
